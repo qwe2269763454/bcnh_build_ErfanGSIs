@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20201231085845/R11s_11_OTA_1190_all_Vv6yB9efD2ry.ozip
-  ROM_NAME: ColorOS
+  ROM_URL: https://bigota.d.miui.com/22.2.9/miui_TUCANA_22.2.9_4959ce9155_11.0.zip
+  ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: R11s_11_Aonly.7z
